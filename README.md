@@ -4,14 +4,14 @@ I'm Wayne Karlo San Diego from Adamson University currently taking up BSCS-CSIE
 
 (Bachelor of Science in Computer Science) (Bachelor of Science in Computer Science and Information Engineering)
 
-I have a keen interest in CyberSecurity, I would like to have opportunities to learn about penetration testing or red teaming in general.
+I have a keen interest in Cybersecurity, I would like to have opportunities to learn about penetration testing or red teaming in general.
 
+🌱 Certifications:
+  * Google Cybersecurity
 
-🌱 I’m currently learning Java, C#, HTML, CSS and JS as part of my curriculum.
+⚡ I'm currently focusing on learning more about Cybersecurity in general.
 
-⚡ I'm currently focusing on learning more about CyberSecurity in general.
-
-🔭 I’m currently working on my certification on ISC2 (Certified in Cybersecurity).
+🔭 I’m currently studying Google Cloud Cybersecurity, Akamai Network Engineering in hopes of earning their respective certifications.
 
 <!--
 **waynekarlo/waynekarlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
