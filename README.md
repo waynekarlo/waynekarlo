@@ -8,10 +8,11 @@ I have a keen interest in Cybersecurity, I would like to have opportunities to l
 
 🌱 Certifications:
   * Google Cybersecurity
+  * Google Cloud Cybersecurity
 
 ⚡ I'm currently focusing on learning more about Cybersecurity in general.
 
-🔭 I’m currently studying Google Cloud Cybersecurity, Akamai Network Engineering in hopes of earning their respective certifications.
+🔭 I’m currently studying IBM and ISC2 Cybersecurity Specialist, Akamai Network Engineering in hopes of earning their respective certifications.
 
 <!--
 **waynekarlo/waynekarlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
